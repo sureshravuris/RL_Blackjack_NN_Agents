@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.23)  8 DEC 2024 15:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.23)  8 DEC 2024 18:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -18,11 +18,12 @@ Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 \@IEEEtrantmpcountB=\count189
 \@IEEEtrantmpcountC=\count190
 \@IEEEtrantmptoksA=\toks17
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 5
 03.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
+-- Using IEEE Computer Society mode.
 -- Using 8.5in x 11in (letter) paper.
 -- Using PDF output.
 \@IEEEnormalsizeunitybaselineskip=\dimen143
@@ -30,55 +31,57 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 \CLASSINFOnormalsizebaselineskip=\dimen144
 \CLASSINFOnormalsizeunitybaselineskip=\dimen145
 \IEEEnormaljot=\dimen146
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <5.01874> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <5.01874> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <7.02625> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <7.02625> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <8.03> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <8.03> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9.03374> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9.03374> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9.53561> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9.53561> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <11.04124> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <11.04124> not available
 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12.045> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <12.045> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <17.06374> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <17.06374> not available
 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <20.075> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <20.075> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <24.09> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <24.09> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
 
 \IEEEquantizedlength=\dimen147
 \IEEEquantizedlengthdiff=\dimen148
@@ -279,6 +282,9 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \backup@length=\skip57
 \ar@cellbox=\box56
 )
+(/usr/local/texlive/2024/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
 (/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -308,15 +314,14 @@ Package caption Info: Unknown document class (or package),
 (caption)             standard defaults will be used.
 Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
 blestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\norma
-lfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace
- {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptio
-nsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspac
-e \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\nor
-malfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\n
-ormalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONcon
-ference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }
-\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi 
-\fi  on input line 1175.
+lfont \sffamily \footnotesize #1}\\{\normalfont \sffamily \footnotesize #2}\par
+ \addvspace {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEf
+igurecaptionsepspace \setbox \@tempboxa \hbox {\normalfont \sffamily \footnotes
+ize {#1.}\nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbo
+x {\normalfont \sffamily \footnotesize {#1.}\nobreakspace }\parbox [t]{\hsize }
+{\normalfont \sffamily \footnotesize \noindent \unhbox \@tempboxa #2}\else \hbo
+x to\hsize {\normalfont \sffamily \footnotesize \box \@tempboxa \hfil }\fi \fi 
+ on input line 1175.
 )
 \c@KVtest=\count291
 \sf@farskip=\skip58
@@ -462,22 +467,22 @@ File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 (./RL_Final_Project_Report.aux)
 \openout1 = `RL_Final_Project_Report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 354.
-LaTeX Font Info:    ... okay on input line 354.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 354.
-LaTeX Font Info:    ... okay on input line 354.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 354.
-LaTeX Font Info:    ... okay on input line 354.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 354.
-LaTeX Font Info:    ... okay on input line 354.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 354.
-LaTeX Font Info:    ... okay on input line 354.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 354.
-LaTeX Font Info:    ... okay on input line 354.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 354.
-LaTeX Font Info:    ... okay on input line 354.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 355.
+LaTeX Font Info:    ... okay on input line 355.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 355.
+LaTeX Font Info:    ... okay on input line 355.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 355.
+LaTeX Font Info:    ... okay on input line 355.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 355.
+LaTeX Font Info:    ... okay on input line 355.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 355.
+LaTeX Font Info:    ... okay on input line 355.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 355.
+LaTeX Font Info:    ... okay on input line 355.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 355.
+LaTeX Font Info:    ... okay on input line 355.
 
--- Lines per column: 46 (approximate, difference = 4.47656pt).
+-- Lines per column: 48 (approximate, difference = 0.47974pt).
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -494,15 +499,15 @@ LaTeX Font Info:    ... okay on input line 354.
 * \textheight=556.47656pt
 * \oddsidemargin=19.8752pt
 * \evensidemargin=19.8752pt
-* \topmargin=-10.21461pt
+* \topmargin=4.4295pt
 * \headheight=12.0pt
-* \headsep=21.342pt
-* \topskip=12.0pt
-* \footskip=25.80774pt
+* \headsep=6.69788pt
+* \topskip=11.58327pt
+* \footskip=19.1765pt
 * \marginparwidth=20.0pt
 * \marginparsep=10.0pt
-* \columnsep=12.0pt
-* \skip\footins=10.79993pt plus 4.79993pt minus 2.39996pt
+* \columnsep=12.045pt
+* \skip\footins=10.42487pt plus 4.63322pt minus 2.3166pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -529,18 +534,44 @@ LaTeX Font Info:    ... okay on input line 354.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 3
-75.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/omsptm.fd
-File: omsptm.fd 
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 3
+89.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <11> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 375.
+LaTeX Font Info:    Trying to load font information for OMS+phv on input line 3
+89.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/omsphv.fd
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <11.04124> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 389.
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 38
+9.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 389
+.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 389
+.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 389
+.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
 <./fig/rl_project_architectures.png, id=1, 1223.57124pt x 551.05875pt>
 File: ./fig/rl_project_architectures.png Graphic file (type png)
 <use ./fig/rl_project_architectures.png>
 Package pdftex.def Info: ./fig/rl_project_architectures.png  used on input line
- 399.
+ 402.
 (pdftex.def)             Requested size: 429.99268pt x 227.62564pt.
 
 
@@ -550,160 +581,116 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 ocal/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: File `./fig/fig2_rl_dqns_code.png' not found on input line 421.
-
-
-./RL_Final_Project_Report.tex:421: Package pdftex.def Error: File `./fig/fig2_r
-l_dqns_code.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.421 ... height=8cm]{./fig/fig2_rl_dqns_code.png}
-                                                  }
+] [2 <./fig/rl_project_architectures.png>]
+Runaway argument?
+{sec:sys) 
+./RL_Final_Project_Report.tex:421: Paragraph ended before \label was complete.
+<to be read again> 
+                   \par 
+l.421 
+      
 ? s
 OK, entering \scrollmode...
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 4
-21.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
+<./fig/DQN.png, id=15, 651.43375pt x 530.98375pt>
+File: ./fig/DQN.png Graphic file (type png)
+<use ./fig/DQN.png>
+Package pdftex.def Info: ./fig/DQN.png  used on input line 425.
+(pdftex.def)             Requested size: 195.43163pt x 159.29634pt.
+./RL_Final_Project_Report.tex:429: Misplaced alignment tab character &.
+l.429 ...to the output predictions of the target &
+                                                   policy networks, based on...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+<./fig/NoisyDDQN.png, id=17, 714.67pt x 596.2275pt>
+File: ./fig/NoisyDDQN.png Graphic file (type png)
+<use ./fig/NoisyDDQN.png>
+Package pdftex.def Info: ./fig/NoisyDDQN.png  used on input line 432.
+(pdftex.def)             Requested size: 214.40265pt x 178.86963pt.
+
+Overfull \hbox (5.42284pt too wide) in paragraph at lines 432--433
+ [][] 
+ []
+
+<./fig/AC2.png, id=18, 775.89874pt x 806.01125pt>
+File: ./fig/AC2.png Graphic file (type png)
+<use ./fig/AC2.png>
+Package pdftex.def Info: ./fig/AC2.png  used on input line 437.
+(pdftex.def)             Requested size: 217.25017pt x 225.68161pt.
+
+Overfull \hbox (8.27036pt too wide) in paragraph at lines 437--438
+[][] 
+ []
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-./RL_Final_Project_Report.tex:426: Too many }'s.
-\@endfloatbox ...pagefalse \outer@nobreak \egroup 
-                                                  \color@endbox 
-l.426 \end{figure*}
-                   
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-./RL_Final_Project_Report.tex:426: Extra \endgroup.
-\color@endgroup ->\endgraf \endgroup 
-                                     
-l.426 \end{figure*}
-                   
-Things are pretty mixed up, but I think the worst is over.
-
-./RL_Final_Project_Report.tex:426: Too many }'s.
-\color@endbox ->\color@endgroup \egroup 
-                                        
-l.426 \end{figure*}
-                   
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-
-./RL_Final_Project_Report.tex:426: LaTeX Error: \begin{document} ended by \end{
-figure*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.426 \end{figure*}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./RL_Final_Project_Report.tex:426: Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.426 \end{figure*}
-                   
-Things are pretty mixed up, but I think the worst is over.
-
-[2 <./fig/rl_project_architectures.png>]
-Runaway argument?
-{sec:sys) 
-./RL_Final_Project_Report.tex:431: Paragraph ended before \label was complete.
-<to be read again> 
-                   \par 
-l.431 
-      
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
-{sec:eval) 
-./RL_Final_Project_Report.tex:433: Paragraph ended before \label was complete.
-<to be read again> 
-                   \par 
-l.433 
-      
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
 Runaway argument?
 {sec:res) 
-./RL_Final_Project_Report.tex:435: Paragraph ended before \label was complete.
+./RL_Final_Project_Report.tex:442: Paragraph ended before \label was complete.
 <to be read again> 
                    \par 
-l.435 
+l.442 
       
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
+
+Underfull \vbox (badness 1194) has occurred while \output is active []
+
+ [3 <./fig/DQN.png> <./fig/NoisyDDQN.png>]
 Runaway argument?
 {sec:disc) \section *{Acknowledgment} 
-./RL_Final_Project_Report.tex:447: Paragraph ended before \label was complete.
+./RL_Final_Project_Report.tex:458: Paragraph ended before \label was complete.
 <to be read again> 
                    \par 
-l.447 
+l.458 
       
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
 
-./RL_Final_Project_Report.tex:468: LaTeX Error: Something's wrong--perhaps a mi
+./RL_Final_Project_Report.tex:479: LaTeX Error: Something's wrong--perhaps a mi
 ssing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.468 \end{thebibliography}
+l.479 \end{thebibliography}
                            
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[3
-
-] (./RL_Final_Project_Report.aux)
+[4 <./fig/AC2.png>] (./RL_Final_Project_Report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7293 strings out of 474116
- 122986 string characters out of 5743682
- 1937187 words of memory out of 5000000
- 29553 multiletter control sequences out of 15000+600000
- 588150 words of font info for 87 fonts, out of 8000000 for 9000
+ 7408 strings out of 474116
+ 124891 string characters out of 5743682
+ 1936187 words of memory out of 5000000
+ 29639 multiletter control sequences out of 15000+600000
+ 593729 words of font info for 113 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 57i,6n,65p,1052b,362s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,8n,65p,1033b,382s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/l
-ocal/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texli
-ve/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2024/t
-exmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on RL_Final_Project_Report.pdf (3 pages, 220375 bytes).
+></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/
+local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/t
+exlive/2024/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/
+2024/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on RL_Final_Project_Report.pdf (4 pages, 440718 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
+ 51 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
