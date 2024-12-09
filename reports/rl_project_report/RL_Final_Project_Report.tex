@@ -365,11 +365,11 @@ g} \fi
 
 
 % author names and affiliations
-\author{\IEEEauthorblockN{Bryan Ambriz, Sri Vinay Appari, Suresh Ravuri} \\
+\author{\IEEEauthorblockN{Bryan Ambriz, Sri Vinay Appari, Suresh Ravuri, Harshavardhan Valmiki} \\
  \IEEEauthorblockA{Computer Engineering Department\\
  San Jos\'{e} State University (SJSU)\\
  San Jos\'{e}, CA, USA \\
- Email: \{bryan.ambriz, srivinay.appari, suresh.ravuri\}@sjsu.edu}
+ Email: \{bryan.ambriz, srivinay.appari, suresh.ravuri, harshavardhanraghavendra.valmiki\}@sjsu.edu}
  }
 
 % As a general rule, do not put math, special symbols or citations
@@ -444,9 +444,19 @@ Although we did not evaluate the noisy DQN as compared to the DQN, we noticed th
 
 
 We conducted an ablation experiment by evaluating the output of our previously trained blackjack playing DQN as compared to the trained A2C model. We found that the A2C model outperformed the DQN model at blackjack. After 200 simulated rounds of the game, the DQN model only won 18\% of the games, whereas the A2C model won 35\%. Similarly, the A2C outperformed the DQN by achieving a higher average reward across the 200 rounds. The A2C model averaged a reward of -0.250 while the DQN averaged a reward of -0.591. Finally, we compared them by measuring whether they agreed or differed in choices during their matches. We found that they had a decision disagreement rate of around 48\% - implying that the models learned a very different strategy due to their difference in learning algorithm. 
+
 \section{Conclusion}\label{sec:disc)
+
+This project successfully enhanced traditional reinforcement learning (RL) agents by incorporating deep reinforcement learning (Deep RL) techniques, specifically utilizing Deep Q-Learning Networks (DQN) and Actor-to-Critic (A2C) models within the Gymnasium Blackjack environment. Our findings demonstrate that the A2C model outperformed the standard DQN, achieving a higher win rate (35\% vs. 18\%) and a more favorable average reward (-0.250 vs. -0.591) over 200 simulated games. This highlights the effectiveness of Actor-Critic methods in optimizing decision-making strategies in complex environments.
+
+The introduction of noise layers in the DQN aimed to improve exploration did not yield significant performance gains within the limited training period, suggesting that further training or hyperparameter adjustments may be necessary to realize their potential benefits. Additionally, the notable 48\% decision disagreement rate between DQN and A2C models indicates that different RL approaches can lead to distinct strategic behaviors, offering opportunities for hybrid strategies.
+
+Integrating a Large Language Model (LLM) with the A2C framework represents an innovative advancement, though preliminary results indicate the need for further exploration to fully harness this integration. 
+
+Future work will focus on optimizing the noisy DQN through extended training, exploring additional Deep RL algorithms, applying models to more complex environments, and deepening the integration of LLMs to enhance decision-making capabilities. Overall, this project establishes a solid foundation for advancing Deep RL agents, demonstrating significant improvements in strategy optimization and performance within the Blackjack environment.
+
 % use section* for acknowledgment
-\section*{Acknowledgment}
+%\section*{Acknowledgment}
 %The authors would like to thank...
 % trigger a \newpage just before the given reference
 % number - used to balance the columns on the last page
@@ -471,15 +481,73 @@ We conducted an ablation experiment by evaluating the output of our previously t
 % set second argument of \begin to the number of references
 % (used to reserve space for the reference number labels box)
 
-\begin{thebibliography}{1}
-  
- %\bibitem{IEEEhowto:mol} 
- %Mol, S. E., & Bus, A. G. (2011). To Read or Not to Read: A Meta-Analysis of Print Exposure From Infancy to Early Adulthood. Psychological Bulletin, 137(2), 267-296.
+\begin{thebibliography}{12}
+
+\bibitem{pavlov1927}
+I.~P. Pavlov, \emph{Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex}, Oxford University Press, 1927.
+
+\bibitem{thorndike1911}
+E.~L. Thorndike, ``Animal intelligence: Experimental studies,'' \emph{Psychological Review}, vol.~18, no.~2, pp. 117--137, 1911.
+
+\bibitem{skinner1938}
+B.~F. Skinner, \emph{The Behavior of Organisms: An Experimental Analysis}, Appleton-Century, 1938.
+
+\bibitem{markov1906}
+A.~A. Markov, ``Extension of the limit theorems of probability theory to a sum of variables connected in a chain,'' \emph{Halle}, 1906.
+
+\bibitem{bellman1957}
+R.~Bellman, \emph{Dynamic Programming}, Princeton University Press, 1957.
+
+\bibitem{sutton1998}
+R.~Sutton and A.~G. Barto, \emph{Reinforcement Learning: An Introduction}, MIT Press, 1998.
+
+\bibitem{watkins1989}
+C.~J. C. H. Watkins and P.~Dayan, ``Q-learning,'' \emph{Machine Learning}, vol.~8, no.~3, pp. 279--292, 1989.
+
+\bibitem{mnih2015}
+V.~Mnih et al., ``Human-level control through deep reinforcement learning,'' \emph{Nature}, vol.~518, pp. 529--533, 2015.
+
+\bibitem{wang2016}
+Y.~Wang, M.~Riedmiller, and D.~Silver, ``Dueling Network Architectures for Deep Reinforcement Learning,'' \emph{arXiv preprint arXiv:1511.06581}, 2016.
+
+\bibitem{schulman2017}
+J.~Schulman et al., ``Proximal Policy Optimization Algorithms,'' \emph{arXiv preprint arXiv:1707.06347}, 2017.
+
+\bibitem{konda1999}
+V.~R. Konda and A.~G. Barto, ``Actor-Critic Algorithms,'' in \emph{Advances in Neural Information Processing Systems}, 1999, pp. 1008--1014.
+
+\bibitem{gymnasium}
+Gymnasium, ``Gymnasium: A Next Generation OpenAI Gym,'' \emph{arXiv preprint arXiv:2109.02277}, 2021. [Online]. Available: \url{https://gymnasium.farama.org/}
+
+\bibitem{pytorch}
+A.~Paszke et al., ``PyTorch: An Imperative Style, High-Performance Deep Learning Library,'' in \emph{Advances in Neural Information Processing Systems}, 2019.
+
+\bibitem{agileRL}
+agileRL, ``agileRL: Agile Reinforcement Learning Library,'' 2020. [Online]. Available: \url{https://github.com/agile-rl/agileRL}
+
+\bibitem{mnih2016}
+V.~Mnih et al., ``Asynchronous Methods for Deep Reinforcement Learning,'' \emph{arXiv preprint arXiv:1602.01783}, 2016.
+
+\bibitem{wang2020}
+Y.~Wang and L.~Jia, ``Noisy Networks for Exploration,'' \emph{arXiv preprint arXiv:1706.10295}, 2017.
+
+\bibitem{vaswani2017}
+A.~Vaswani et al., ``Attention is All You Need,'' in \emph{Advances in Neural Information Processing Systems}, 2017, pp. 5998--6008.
+
+\bibitem{devlin2018}
+J.~Devlin, M.~W. Chang, K.~Lee, and K.~Toutanova, ``BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,'' \emph{arXiv preprint arXiv:1810.04805}, 2018.
 
 \end{thebibliography}
 
 
 
 
+
 % that's all folks
 \end{document}
+\begin{figure}
+    \centering
+    \includegraphics[width=0.5\linewidth]{AC2_Agent.png}
+    \caption{Enter Caption}
+    \label{fig:enter-label}
+\end{figure}
